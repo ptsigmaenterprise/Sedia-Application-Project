@@ -1,7 +1,7 @@
 # **SEDIA : Service Desk Incident application**
 By PT.SIGMA : System Integration for Global Management Applications
 
-<img src="assets/SIGMA.png" alt="Logo PT SIGMA" width="20%" >
+<img src="assets/SIGMA.png" alt="Logo PT SIGMA" width="35%" >
 
 ## **Company Profile**
 
@@ -31,7 +31,7 @@ PT SIGMA meyakini bahwa teknologi bukan hanya alat, melainkan jembatan yang meny
 ## **About Our Project**
 ### **SEDIA : Service Desk Incident application**
 
-<img src="assets/SIGMA.png" alt="Logo PT SIGMA" width="20%" >
+<img src="assets/SEDIA.png" alt="Logo SEDIA" width="35%" >
 
 <p align="justify">
 Tujuan dari pengembangan aplikasi ini adalah untuk menyediakan sebuah sistem terpadu yang mampu mengelola insiden dan permintaan layanan teknologi informasi secara lebih terstruktur, cepat, dan transparan. Melalui pemantauan SLA (Service Level Agreement), OLA (Operational Level Agreement), serta laporan kepatuhan yang terukur, aplikasi ini diharapkan dapat meningkatkan akuntabilitas setiap Organisasi Perangkat Daerah (OPD). Selain itu, aplikasi ini juga dirancang untuk mendukung implementasi SPBE (Sistem Pemerintahan Berbasis Elektronik) sebagai upaya mewujudkan transformasi digital di lingkungan pemerintahan daerah.
@@ -64,3 +64,5 @@ Aplikasi ini mendukung koordinasi lintas unit, penerapan SPBE, dan transformasi 
 
 - **Akses Fleksibel**  
   Dapat diakses melalui web, mobile app, dan QR Code, mendukung dark mode, serta tampilan yang dapat disesuaikan untuk tiap OPD.
+
+
