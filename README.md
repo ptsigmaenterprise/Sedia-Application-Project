@@ -15,7 +15,7 @@ PT SIGMA meyakini bahwa teknologi bukan hanya alat, melainkan jembatan yang meny
 
 ## **Our Team**
 
-| No | Nama Anggota                    | Role             | Contact                                                                 |
+| No | Member Name                    | Role             | Contact                                                                 |
 |----|---------------------------------|------------------|-------------------------------------------------------------------------|
 | 1  | Audrey Nazhira Ramaniasari      | Project Manager  | [Email](mailto:audreynazhirar@gmail.com) • [LinkedIn](https://www.linkedin.com/in/audreynazhirar/) |
 | 2  | Astrid Dewi Maulana R | Secertary       | [Email](mailto:astridrosalina191203@gmail.com) • [LinkedIn](https://www.linkedin.com/in/astriddewimaulanarosalina/)|
@@ -36,6 +36,11 @@ PT SIGMA meyakini bahwa teknologi bukan hanya alat, melainkan jembatan yang meny
 <p align="justify">
 Tujuan dari pengembangan aplikasi ini adalah untuk menyediakan sebuah sistem terpadu yang mampu mengelola insiden dan permintaan layanan teknologi informasi secara lebih terstruktur, cepat, dan transparan. Melalui pemantauan SLA (Service Level Agreement), OLA (Operational Level Agreement), serta laporan kepatuhan yang terukur, aplikasi ini diharapkan dapat meningkatkan akuntabilitas setiap Organisasi Perangkat Daerah (OPD). Selain itu, aplikasi ini juga dirancang untuk mendukung implementasi SPBE (Sistem Pemerintahan Berbasis Elektronik) sebagai upaya mewujudkan transformasi digital di lingkungan pemerintahan daerah.
 </p>
+
+[▶️ Lihat Video Iklan Aplikasi](https://drive.google.com/drive/folders/1e6GKk1egbV8lKEBfRw1Pxv03fCRXnweR)
+
+
+👉 Kunjungi **[Website SEDIA](https://sedia.xyz/)**
 
 ### **Manfaat & Keunggulan**
 
@@ -65,4 +70,11 @@ Aplikasi ini mendukung koordinasi lintas unit, penerapan SPBE, dan transformasi 
 - **Akses Fleksibel**  
   Dapat diakses melalui web, mobile app, dan QR Code, mendukung dark mode, serta tampilan yang dapat disesuaikan untuk tiap OPD.
 
+## **Our Project Repository**
+
+| Name  | Repository                                                                 | Info                                                                 |
+|-------------------|-----------------------------------------------------------------------------|----------------------------------------------------------------------|
+| Backend           | [GitHub](https://github.com/ptsigmaenterprise/Back-End)                    | Menyediakan API utama, logika bisnis, autentikasi, serta integrasi database dan layanan eksternal. |
+| Frontend Mobile   | [GitHub](https://github.com/ptsigmaenterprise/Front-End-Mobile)           | Aplikasi mobile untuk pengguna, mendukung akses layanan, pelaporan insiden, dan pemantauan status tiket. |
+| Frontend Website  | [GitHub](https://github.com/ptsigmaenterprise/Front-End-Website)          | Aplikasi web untuk admin dan manajemen, mencakup dashboard, monitoring, dan pengelolaan data sistem. |
 
