@@ -37,7 +37,7 @@ PT SIGMA meyakini bahwa teknologi bukan hanya alat, melainkan jembatan yang meny
 Tujuan dari pengembangan aplikasi ini adalah untuk menyediakan sebuah sistem terpadu yang mampu mengelola insiden dan permintaan layanan teknologi informasi secara lebih terstruktur, cepat, dan transparan. Melalui pemantauan SLA (Service Level Agreement), OLA (Operational Level Agreement), serta laporan kepatuhan yang terukur, aplikasi ini diharapkan dapat meningkatkan akuntabilitas setiap Organisasi Perangkat Daerah (OPD). Selain itu, aplikasi ini juga dirancang untuk mendukung implementasi SPBE (Sistem Pemerintahan Berbasis Elektronik) sebagai upaya mewujudkan transformasi digital di lingkungan pemerintahan daerah.
 </p>
 
-[▶️ Lihat Video Iklan Aplikasi](https://drive.google.com/drive/folders/1e6GKk1egbV8lKEBfRw1Pxv03fCRXnweR)
+[▶️ Lihat Video Iklan Aplikasi]()
 
 
 👉 Kunjungi **[Website SEDIA](https://sedia.xyz/)**
